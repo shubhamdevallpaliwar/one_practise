@@ -42,17 +42,7 @@
 		<id>maven1</id>
 		<name>Maven.org</name>
 		<url>https://repo1.maven.org/maven2</url>
-	    </pluginRepository>
-
-
-		<plugins>
-    <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-war-plugin</artifactId>
-        <version>3.3.1</version> <!-- or a more recent stable version -->
-    </plugin>
-</plugins>
-		
+	    </pluginRepository>		
 	</pluginRepositories>
 
 	
